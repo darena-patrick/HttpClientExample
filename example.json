@@ -1,0 +1,19 @@
+{
+  "patientName": "Alice Newman",
+  "patientAge": 48,
+  "isActive": true,
+  "dependents": [
+    {
+      "patientName": "Zeke Newman",
+      "patientAge": 19,
+      "isActive": true,
+      "dependents": null
+    },
+    {
+      "patientName": "Claire Newman",
+      "patientAge": 14,
+      "isActive": false,
+      "dependents": null
+    }
+  ]
+}
